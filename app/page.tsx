@@ -33,10 +33,7 @@ export default async function Home() {
 
       {/* Hero Section */}
       <section className="container mx-auto px-4 py-20 text-center">
-        <h2
-          className="text-5xl font-bold mb-4 text-balance"
-          style={{ color: "black" }}
-        >
+        <h2 className="text-5xl font-bold mb-4 text-balance text-black">
           Welcome to My Development Journey
         </h2>
         <p className="text-xl text-muted-foreground mb-8 text-balance max-w-2xl mx-auto">
