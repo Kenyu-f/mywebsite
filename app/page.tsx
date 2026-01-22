@@ -47,7 +47,6 @@ export default async function Home() {
             <Button size="lg" variant="outline">
               View My Skills
             </SkillsDialog>
-          </SkillsDialog>
         </div>
       </section>
 
