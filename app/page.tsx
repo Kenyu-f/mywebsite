@@ -26,7 +26,6 @@ export default async function Home() {
             <Link href="/blog">
               <Button variant="ghost">Blog</Button>
             </Link>
-            <SkillsDialog />
           </nav>
         </div>
       </header>
@@ -44,9 +43,13 @@ export default async function Home() {
             <Button size="lg">Read the Blog</Button>
           </Link>
           <SkillsDialog>
-            <Button size="lg" variant="outline">
+            <Button size="lg" variant="outline"></Button>
               View My Skills
+<<<<<<< HEAD
             </SkillsDialog>
+=======
+          </SkillsDialog>
+>>>>>>> 28dcf5a (Fix SkillsDialog structure and build error)
         </div>
       </section>
 
