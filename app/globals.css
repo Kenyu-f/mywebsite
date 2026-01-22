@@ -124,7 +124,7 @@
 
     /* 背景画像の指定（public/mekakucity.png を使用）*/
     background-color: var(--color-background);
-    background-image: url('/mekakucity.png');
+    background-image: url('/aphextwin_pc.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
