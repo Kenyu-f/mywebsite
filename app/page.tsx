@@ -12,7 +12,7 @@ export default async function Home() {
     <div
       className="min-h-screen"
       style={{
-        backgroundImage: "url('/aphextwin_pc.png')",
+        backgroundImage: "url('/aphextwin_pc.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
